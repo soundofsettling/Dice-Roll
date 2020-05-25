@@ -1,0 +1,1 @@
+A project for learning iOS development. The dice rolls at the press of a button or by shaking the phone.
